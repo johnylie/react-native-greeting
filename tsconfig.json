@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "rootDir": "./",
+      "declaration": true, 
+      "outDir": "./dist", 
+      "baseUrl": "./",
+      "typeRoots": ["./node_modules/@types"],
+      "resolveJsonModule": true,
+      "moduleResolution": "node",
+      "jsx": "react" 
+    },
+    "include": [
+      "index.ts",
+      "__test__/**/*.ts",
+    ],
+    "exclude": [
+      "node_modules",
+      "dist"
+    ]
+  }
