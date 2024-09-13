@@ -1,6 +1,6 @@
 {
   "name": "react-native-greeting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility function for React Native that returns a greeting message based on the time of day. Users must provide a custom translation function and can optionally configure custom translation keys.",
   "main": "index.ts",
   "scripts": {

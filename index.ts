@@ -1,5 +1,3 @@
-type TranslationFunction = (key: string) => string;
-
 type CustomKeys = {
   morning_greating?: string;
   afternoon_greating?: string;
