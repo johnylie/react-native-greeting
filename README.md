@@ -31,7 +31,7 @@ If any step seems unclear, please create a pull request.
 Import the `getGreeting` function from `react-native-greeting` and use it like so:
 
 ```tsx
-import { getGreeting } from 'greeting-generator';
+import { getGreeting } from 'react-native-greeting';
 
 const name = 'John';
 const greeting = getGreeting(name); // Returns greeting in default language (English) based on current time
