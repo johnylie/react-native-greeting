@@ -135,7 +135,6 @@ MIT
 This readme is available in:
 
 - [English](./README.md)
-- [Indonesian language](./README.indonesian.md)
 
 ## 📝 Author
 
